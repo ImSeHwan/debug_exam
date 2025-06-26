@@ -1,5 +1,4 @@
 import 'package:intl/intl.dart';
-import 'package:intl/locale.dart';
 
 class YukymController {
 
