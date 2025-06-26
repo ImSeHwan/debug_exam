@@ -1,4 +1,3 @@
-import 'package:intl/intl.dart';
 
 /// _getTimeDataOne() 는 현재 코드에서는 의미없는 코드 입니다.
 /// _getTimeDataOne를 통해 YukymTimeModel를 24번 add 하지만 데이터도 같고
